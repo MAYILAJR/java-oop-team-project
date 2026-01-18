@@ -10,3 +10,13 @@
 ​NotificationService.java: The core interface (Abstraction).
 ​EmailNotification.java: Implementation for email alerts (Polymorphism).
 ​SMSNotification.java: Implementation for text message alerts (Polymorphism).
+
+--------------------------------------------------------------------------------------------------------
+
+Component 3: Worked on improving the University Management System structure.
+Added and organized the Student class as a core part of the project.
+Focused on making the code clear, simple, and easy to extend.
+This step helps the team build other features more smoothly.
+Lays a strong foundation for future development and collaboration.
+
+-------------------------------------------------------------------------------------------------------
