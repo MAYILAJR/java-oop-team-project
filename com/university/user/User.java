@@ -1,4 +1,4 @@
-package com.university.models;
+package com.university.user;
 
 /**
  * Abstract base class for all users in the system.
