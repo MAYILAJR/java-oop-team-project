@@ -1,6 +1,6 @@
 package com.university.services;
 
-import com.university.models.User;
+import com.university.user.User;
 
 import java.util.ArrayList;
 import java.util.List;
