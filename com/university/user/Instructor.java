@@ -1,4 +1,4 @@
-package com.university.models;
+package com.university.user;
 
 import java.util.ArrayList;
 import java.util.List;
