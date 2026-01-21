@@ -6,8 +6,8 @@
 
 - **29345/2025** — User Management (Component 1)  
 - **30620/2025** — User Management (Component 1)  
-- **29912/2025** — Course Management (Component 2)  
-- **25906/2024** — Enrollment System (Component 3)  
+- **25906/2024** — Course Management (Component 2)  
+- **29912/2025** — Enrollment System (Component 3)  
 - **29611/2025** — Grade Management (Component 4)  
 - **29179/2025** — Notification System (Component 5)  
 - **29542/2025** — Reporting System (Component 6)  
@@ -80,7 +80,7 @@ This part makes it easy to maintain user information and ensures the system rema
 
 ---
 
-## 👤 **29912/2025 — Course Management (Component 2)**
+## 👤 **25906/2024 — Course Management (Component 2)**
 
 I was responsible for handling course-related features in the system. I focused on making sure courses are well defined, valid, and easy to manage.
 
@@ -102,7 +102,7 @@ This makes course data reliable and easier to manage for both instructors and ad
 
 ---
 
-## 👤 **25906/2024 — Enrollment System (Component 3)**
+## 👤 ***29912/2025 — Enrollment System (Component 3)**
 
 ### **Overview**
 Worked on improving the overall structure of the system by strengthening the enrollment-related logic.
