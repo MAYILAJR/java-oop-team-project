@@ -1,5 +1,6 @@
 University Course Management System
 
+
 GROUP MEMEBERS: 29345/2025 -- User Management (Component 1) 30620/2025 -- User Management (Component 1) 29912/2025 -- Course Management (Component 2) 25906/2024 -- Enrollment System (Component 3) 29611/2025 -- Grade Management (Component 4) 29179/2025 -- Notification System (Component 5) 29542/2025 -- Reporting System (Component 6) 30755/2025 -- Authentication & Data Persistence (Components 7 & 8)
 
 📌 Project Overview
